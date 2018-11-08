@@ -180,7 +180,7 @@ _sString : 1, NSTaggedPointerString, 0xa000000000000311
  numberffff pointer is 0xb0000000000ffff2
 ```
 
-由此可见去掉 0xb0000000000000和2 之后 ，number1的值为1.
+由此可见去掉 0xb和2 之后 ，中间number1的值为1.
 
 
 
